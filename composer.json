@@ -1,6 +1,6 @@
 {
     "name": "drupal/myhockeyleague",
-    "description": "Hockey league management application",
+    "description": "Hockey League Management application",
     "type": "project",
     "license": "GPL-2.0-or-later",
     "homepage": "https://myhockeyleague.app",
